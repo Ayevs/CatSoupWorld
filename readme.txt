@@ -5,7 +5,7 @@ This will be the source code to a website that I will try to design for CatSoup'
 This is all possible thankfully due to frisco purchasing the domain and allowing me to make a website for it.
 
 Written by Alexandr
-    for CatSoup & Frisco
+for CatSoup & Frisco
 
 ------Socials------
 CatSoup:
