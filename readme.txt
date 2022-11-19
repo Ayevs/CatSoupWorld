@@ -9,7 +9,7 @@ for CatSoup & Frisco
 
 ------Socials------
 CatSoup:
- - https://seshstation.com/tag/cat-soup/
+ - https://wiki.seshstation.com/Cat_Soup
 
 Frisco:
  - https://friscoguy.online
